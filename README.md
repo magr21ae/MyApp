@@ -10,3 +10,5 @@ Kør koden: npm install, i terminalen
 Start herefter appen: npm start
 
 God fornøjelse!
+
+OBS! For at se den uploadede video af Appen, skal du blot klikke på "raw". 
